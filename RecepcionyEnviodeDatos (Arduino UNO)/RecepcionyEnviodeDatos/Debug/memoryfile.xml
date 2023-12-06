@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="RecepcionyEnviodeDatos.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>32768</length>                 
+      <used>8977</used>                     
+      <free>23791</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>2048</length>                 
+      <used>31</used>                     
+      <free>2017</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
